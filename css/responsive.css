@@ -1,0 +1,507 @@
+@media (min-width:1400px) {
+    .container {
+        max-width: 1170px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .treatment-sec .img-holder a .circle-5 {
+        left: 53.2%;
+        top: 46%;
+    }
+}
+
+@media (max-width: 1300px) {
+    .about-sec .container::after {
+        right: -14px;
+    }
+
+    .banner-sec .image-holder img {
+        max-width: 100%;
+    }
+
+    .hero-sec .text-box {
+        padding: 25px 31px 12px 20px;
+    }
+
+    .wrink-sec .container::after {
+        content: none;
+    }
+
+    .contact-sec {
+        padding: 65px 0px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .about-sec .container::after {
+        content: none;
+    }
+
+    .about-sec .img-holder img {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+
+    .price-sec {
+        padding: 50px 0px 50px;
+    }
+
+    .contact-sec {
+        padding: 48px 0px;
+    }
+
+    .treatment-sec {
+        margin: 80px 0px 65px;
+    }
+
+
+    .diploma-sec ul {
+        margin-bottom: 50px;
+    }
+
+    .prices-sec {
+        margin: 42px 0px 73px;
+    }
+}
+
+@media (max-width: 991px) {
+    .skin-boost {
+        margin: 30px 0px 40px !important;
+    }
+
+    .treatment-sec .img-holder a .circle-5 {
+        left: 56.2%;
+        top: 47%;
+    }
+
+    .treatment-sec .img-holder a .circle-3 {
+        left: 40.6%;
+        top: 51.8%;
+    }
+
+    .facial-sec .text-box .text-space {
+        margin-bottom: 11px;
+    }
+
+    .treatment-sec {
+        margin: 55px 0px 55px;
+    }
+
+    .prices-sec {
+        margin: 55px 0px;
+    }
+
+    .dr-text p {
+        padding-top: 0px;
+    }
+
+    .paragrapgh-space {
+        padding-bottom: 8px;
+    }
+
+    .diploma-sec ul {
+        margin-bottom: 42px;
+    }
+
+    .media ul {
+        padding-left: 20px;
+    }
+
+    .media .text-box {
+        margin-left: 10px;
+    }
+
+    .treatment-sec .media .image-holder img {
+        width: 130px;
+    }
+
+    .price-sec {
+        padding: 41px 0px 36px;
+    }
+
+    .price-sec ul {
+        margin-top: 25px;
+    }
+
+    .price-size {
+        padding: 16px 0px 50px;
+    }
+
+    .bg-color {
+        padding: 20px 0px 0px;
+    }
+
+    br {
+        display: none;
+    }
+
+
+    footer {
+        padding: 70px 0px 60px;
+    }
+
+    header .navbar-nav .nav-item .nav-link {
+        padding: 13px 18px;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        top: 75px;
+        width: 100%;
+        left: 0px;
+        padding: 0px 30px;
+        background: white;
+        margin-top: 10px;
+        z-index: 99;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: none;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .about-media {
+        padding-top: 34px;
+    }
+
+    .prp-space {
+        margin-bottom: 30px;
+    }
+
+    .results-sec {
+        margin: 40px 0px 80px;
+    }
+
+    .wrink-sec {
+        margin-top: 91px;
+    }
+
+    .vedio-sec {
+        margin-bottom: 76px;
+    }
+
+    .inform-sec {
+        margin: 45px 0px;
+    }
+
+    .treat-sec {
+        margin: 45px 0px 50px;
+    }
+
+    .result-sec {
+        margin: 45px 0px;
+    }
+
+    .cation-sec .list-items {
+        margin-top: 13px;
+    }
+
+    .led-sec form {
+        margin: 42px 0px 50px;
+    }
+
+    .wrink-sec {
+        margin-top: 55px;
+    }
+
+    .action-sec {
+        margin: 29px 0px 35px;
+    }
+
+    .contraindications-sec {
+        margin: 45px 0px 50px;
+    }
+
+    .Immediate-sec {
+        margin: 33px 0px 44px;
+    }
+}
+
+@media (max-width: 767px) {
+    .treatment-sec .img-holder a .circle-2 {
+        left: 42.5%;
+        top: 45%;
+    }
+
+    .treatment-sec .img-holder a .circle-4 {
+        left: 69%;
+        top: 38%;
+    }
+
+    .treatment-sec .img-holder {
+        background-image: none;
+    }
+
+    .treatment-sec .img-holder a .circle-3 {
+        left: 35.6%;
+        top: 53.8%;
+    }
+
+    .treatment-sec .img-holder a .circle-5 {
+        left: 77.2%;
+        top: 42%;
+    }
+
+    .treatment-sec .img-holder a .circle-6 {
+        left: 65%;
+        top: 65%;
+    }
+
+    .hero-sec .text-box h1 {
+        font-size: 40px;
+        line-height: 129%;
+    }
+
+    .results-sec {
+        margin: 40px 0px 45px;
+    }
+
+    .banner-sec .image-holder {
+        position: absolute;
+        left: 0;
+    }
+
+    .wrink-sec .text-box h2 {
+        font-size: 30px;
+        line-height: 142.5%;
+    }
+
+    .prp-space h2 {
+        font-size: 30px;
+    }
+
+    .bottom-space {
+        margin: 33px 0px 50px;
+    }
+
+    .prices-sec {
+        margin: 45px 0px;
+    }
+
+    .about-sec .container {
+        background-color: white;
+        padding-top: 29px;
+    }
+
+    .prices-sec .price-size {
+        padding: 20px 0px 22px;
+    }
+
+    .dr-text p {
+        padding-top: 22px;
+    }
+
+
+    .lip-sec .text-box h2 {
+        margin-bottom: 10px;
+    }
+
+    .space {
+        margin-top: 29px;
+    }
+
+    .diploma-sec {
+        margin-top: 103px;
+    }
+
+    .container {
+        padding: 0px 24px;
+    }
+
+    .diploma-sec .list-items {
+        padding-left: 24px !important;
+    }
+
+    .text-box h3 {
+        margin-bottom: 10px;
+    }
+
+    .diploma-sec ul {
+        margin-bottom: 91px;
+    }
+
+    .treatment-sec .img-holder {
+        margin: 41px 0px 52px;
+    }
+
+    .divider {
+        margin: 34px 0px;
+    }
+
+    .media .text-box {
+        margin-left: 24px;
+    }
+
+    .media .image-holder img {
+        width: 80px;
+    }
+
+    .price-sec {
+        padding: 69px 0px 36px;
+    }
+
+    iframe {
+        height: 400px;
+    }
+
+}
+
+
+
+@media (max-width: 575px) {
+    .hero-sec .container {
+        padding: 0px 24px 0px 0px;
+    }
+
+    .treatment-sec .img-holder a .circle-6 {
+        left: 63%;
+        top: 64%;
+    }
+
+    .vedio-sec .vedio-icon {
+        top: 39%;
+    }
+
+    .treatment-sec .img-holder a .circle-5 {
+        left: 77%;
+        top: 44%;
+    }
+
+    .contact-wrink {
+        margin-top: 67px;
+    }
+
+    .hero-sec {
+        margin-bottom: 0px;
+    }
+
+    .text-box .body-text {
+        margin-top: 29px;
+    }
+
+    .paragrapgh-space {
+        padding-bottom: 36px;
+    }
+
+    .price-list li {
+        padding: 15px 4px 15px 0px;
+        font-size: 17px;
+    }
+
+    .hero-sec .text-box {
+        max-width: 376px;
+        padding: 23px 14px 12px 23px;
+        margin: 343px 0px 88px;
+    }
+
+    .hero-sec .text-box h1 {
+        max-width: 300px;
+    }
+
+    .treatment-sec {
+        margin: 67px 0px 69px;
+    }
+
+    .treatment-sec .media .image-holder img {
+        width: 77px;
+    }
+
+    .price-sec {
+        padding: 59px 0px;
+    }
+
+    .price-sec ul li {
+        padding: 15px 3px 15px 0px;
+    }
+
+    .price-size {
+        padding: 5px 0px 50px;
+    }
+
+    .price-sec h3 {
+        margin-top: 52px;
+    }
+
+    .price-sec .text-box h6 {
+        margin-bottom: 31px;
+    }
+
+    .contact-sec {
+        padding: 29px 0px 88px;
+    }
+
+    .contact-sec form {
+        margin-top: 22px;
+    }
+
+    footer {
+        padding: 62px 0px 49px;
+    }
+
+}
+
+@media (max-width: 374px) {
+    .navbar-brand img {
+        width: 184px;
+    }
+
+    .treatment-sec .img-holder a .circle-5 {
+        left: 79%;
+        top: 46%;
+    }
+
+    .wrink-sec .container {
+        padding-top: 0px;
+    }
+
+    .hero-sec .text-box h1 {
+        font-size: 32px;
+    }
+
+    .text-box h2 {
+        font-size: 28px;
+    }
+
+    .list-items {
+        padding-left: 24px;
+    }
+
+    .prices-sec {
+        margin: 34px 0px;
+    }
+
+    .wrink-sec .text-box h2 {
+        font-size: 23px;
+    }
+
+    .list-items li {
+        font-size: 18px;
+    }
+
+    .hero-sec .text-box {
+        margin: 243px 0px 88px;
+    }
+
+    .text-box p {
+        font-size: 18px;
+        line-height: 171%;
+    }
+
+    .bg-color .text-box h6 {
+        font-size: 15px;
+    }
+
+    .media .text-box ul li {
+        font-size: 18px;
+    }
+
+}
